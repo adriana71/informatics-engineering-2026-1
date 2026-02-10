@@ -14,5 +14,7 @@ Next, we determine whether _die1_ + _die2_ is equal to the desired sum of the nu
 Write the method _rollDice_ that takes as a parameter thhe desired sum of the numbers to be rolled and returns the number of ties the dice are rolled to roll the desire sum
 
 1.- ¿Which is the input?
-2.- ¿Whhich is the output?
+
+2.- ¿Which is the output?
+
 3.- Write the Problem Analysis and Algorith Design
